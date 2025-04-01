@@ -1,0 +1,1 @@
+g++ 1_20.cpp -o a.out && ./a.out
